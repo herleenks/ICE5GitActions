@@ -4,6 +4,9 @@ name: Cross-Platform Jobs Workflow
 
 # Trigger the workflow on pull requests to main
 on:
+  workflow_dispatch: # Putting here is also fine!!
+  release:
+    types: [created]
   pull_request:
     branches:
       - main
