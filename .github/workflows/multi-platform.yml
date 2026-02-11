@@ -6,7 +6,7 @@ name: Cross-Platform Jobs Workflow
 on:
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
 
