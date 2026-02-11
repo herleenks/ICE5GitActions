@@ -1,6 +1,6 @@
 ## YAML Template.
 ---
-name: Cross-Platform Jobs Workflow
+name: Cross-Platform Jobs Workflow1
 
 # Trigger the workflow on pull requests to main
 on:
